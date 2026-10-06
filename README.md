@@ -75,8 +75,6 @@ The QC system is designed to **support expert evaluation rather than replace cli
 
 ## OPEN ONS Toolbox
 
-![OPEN ONS Toolbox example](figures/toolbox_demo.jpg)
-
 This thesis was developed within the **[OPEN ONS Toolbox](https://github.com/KR616/OpenOpticNerveSheathToolbox)**, an open-source platform for optic nerve sheath ultrasound analysis.
 
 ### My contribution
