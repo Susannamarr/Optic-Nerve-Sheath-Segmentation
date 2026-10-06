@@ -12,7 +12,7 @@
 </p>
 
 > **Research portfolio — no source-code release.**  
-> This page showcases the workflow and selected visual material from my thesis. Research models, datasets, training details and unpublished quantitative results are not shared here.
+> This page showcases the workflow and selected visual material from my MSc thesis. Source code, trained models, datasets, detailed training configurations and unpublished quantitative results are not shared publicly at this stage, as the work is currently being prepared for a subsequent scientific publication.
 
 ## Overview
 
@@ -125,8 +125,8 @@ Raleigh, North Carolina, USA.
 
 ## Code & Data Availability
 
-The thesis-specific source code, annotated datasets, trained weights, training configurations and unpublished quantitative results are **not publicly available**.
+The thesis-specific source code, annotated datasets, trained weights, detailed training configurations and unpublished quantitative results are **not publicly available at this stage**, as the work is currently being prepared for a subsequent scientific publication.
 
 This repository is intended as a visual and technical overview of the project and of my contribution to the research workflow.
 
-The underlying OPEN ONS Toolbox is publicly available through its original repository, while trained models and model weights are distributed separately by request.
+The underlying [**OPEN ONS Toolbox**](https://github.com/KR616/OpenOpticNerveSheathToolbox) is publicly available through its original repository, while trained models and model weights are distributed separately by request.
